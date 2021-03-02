@@ -1,5 +1,3 @@
-README
-
 # MAKECHINE
 Un script para la creacion de contenedores que se ejecutan con systemd-nspawn y con ayuda de [snr](https://github.com/mikhailnov/snr) para tener integracion con el xserver, basado en este [gist](https://gist.github.com/Edu4rdSHL/bd9c2dcabbe1846fb55ff72340d3da9c).
 

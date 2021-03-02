@@ -35,6 +35,7 @@ BLANCO='\033[0m'
 RUTA=''
 
 install_depen(){
+	# Puede cambiar
 	echo -e $VERDE"Instalando dependencias..."
 	echo "Llaves de debian y ubuntu"
 	pacman -S jetring git arch-install-scripts debootstrap debian-archive-keyring ubuntu-keyring --noconfirm > $VERBOSE 2>&1
