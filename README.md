@@ -10,8 +10,8 @@ El script esta pensado para ser ejecutado en archlinux, por el momento, para des
 
 Despues damos permisos de ejecucion y ejecutamos
 
-`chmod +x makechine.sh
-sudo ./makechine.sh help`
+`chmod +x makechine.sh`
+`sudo ./makechine.sh help`
 
 Si es la primera vez que se ejecuta este script, ejecuta:
 
@@ -20,6 +20,7 @@ Si es la primera vez que se ejecuta este script, ejecuta:
 Para instalar y descargar las dependencias asi como los archivos necesarios para su uso.
 
 En el caso que querramos hacer un contenedor de debian:
+
 `sudo ./makechine.sh crear debian contenedor_prueba`
 
 O un contenedor arch:
