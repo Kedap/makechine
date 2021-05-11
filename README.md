@@ -5,6 +5,8 @@ Un script para la creacion de contenedores que se ejecutan con systemd-nspawn y 
 El script esta pensado para ser ejecutado en archlinux, por el momento, para descargar el script
 
 ```curl -O https://raw.githubusercontent.com/Kedap/makechine/main/makechine.sh```
+O de igual manera lo puedes intalar con la herramienta [apmpkg}(https://github.com/kedap/apmpkg) con el siguiente comando:
+```apmpkg instalar -u https://raw.githubusercontent.com/Kedap/makechine/main/makechine.adi```
 
 Despues damos permisos de ejecucion y ejecutamos
 

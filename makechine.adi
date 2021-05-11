@@ -1,0 +1,22 @@
+[paquete]
+
+nombre = "makechine"
+version = "1"
+rama = "estable"
+descrip = "Un simple script de bash para la creacion de contenedores de OS utilizando systemd-nspawn y snr"
+pagina = "https://github.com/kedap/makechine"
+licensia = "GPL-V3"
+dependencias = ["bash" , "curl"]
+conflicto = "/opt/makechine"
+
+[descarga]
+
+git = "https://github.com/kedap/makechine"
+carpeta = "makechine"
+sha256sum = "SALTAR"
+
+[instalacion]
+
+files = ["makechine.sh"]
+ruta = ["/usr/bin/makechine"]
+mensaje = "Para crear las configuraciones inicales ejecuta: 'makechine depeni'"
