@@ -11,7 +11,7 @@
 # https://gist.github.com/Edu4rdSHL/bd9c2dcabbe1846fb55ff72340d3da9c   #
 # https://github.com/mikhailnov/snr                                    #
 #                                                                      #
-# Autor kedap <dxhqezk@hi2.in>                                         #
+# Autor kedap <kedap.dev@protonmail.com>                               #
 #                                                                      #
 ########################################################################
 
