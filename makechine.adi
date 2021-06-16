@@ -2,7 +2,7 @@
 
 nombre = "makechine"
 version = "1"
-rama = "estable"
+rama = "git"
 descrip = "Un simple script de bash para la creacion de contenedores de OS utilizando systemd-nspawn y snr"
 pagina = "https://github.com/kedap/makechine"
 licensia = "GPL-V3"
